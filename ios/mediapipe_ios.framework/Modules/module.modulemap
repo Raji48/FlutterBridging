@@ -1,0 +1,11 @@
+framework module mediapipe_ios {
+  umbrella header "mediapipe_ios.h"
+
+  export *
+  module * { export * }
+}
+
+module mediapipe_ios.Swift {
+  header "mediapipe_ios-Swift.h"
+  requires objc
+}
