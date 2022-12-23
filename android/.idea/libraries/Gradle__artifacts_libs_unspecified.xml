@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:libs:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../build/libs/.transforms/27b2b6f11c2701b10b9fd051671ad37f/transformed/jetified-DivineToast-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../build/libs/.transforms/27b2b6f11c2701b10b9fd051671ad37f/transformed/jetified-DivineToast-release/res" />
+      <root url="file://$PROJECT_DIR$/../build/libs/.transforms/27b2b6f11c2701b10b9fd051671ad37f/transformed/jetified-DivineToast-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
